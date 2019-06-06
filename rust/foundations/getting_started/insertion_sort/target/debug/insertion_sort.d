@@ -1,0 +1,1 @@
+/home/parallels/programming/introduction_to_algorithms/rust/foundations/getting_started/insertion_sort/target/debug/insertion_sort: /home/parallels/programming/introduction_to_algorithms/rust/foundations/getting_started/insertion_sort/src/main.rs
